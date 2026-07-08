@@ -1,0 +1,6 @@
+{
+  "name": "Prospect Assist AI",
+  "description": "An AI-powered retail lending underwriting and high-conversion prospect intelligence platform designed for Indian banks, supporting 22 constitutional languages and dual visual themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
